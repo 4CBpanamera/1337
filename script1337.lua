@@ -35136,9 +35136,9 @@ Escape Timer: %*]]
 		Greetings:AddLabel({ Text = ("%s, <b>%s</b> "):format(greeting, localPlayer.DisplayName), DoesWrap = true })
 		Greetings:AddDivider()
 		Greetings:AddLabel({ Text = "Welcome to <b><font color=\"#fffb00\">Resonance</font></b>", DoesWrap = true })
-		Greetings:AddLabel({ Text = "Maintained and developed by: <font color=\"#baa4ff\">marshel (@t0c9)</font>", DoesWrap = true })
+		Greetings:AddLabel({ Text = "Maintained and developed by: <font color=\"#baa4ff\">panamera (1337)</font>", DoesWrap = true })
 		Greetings:AddLabel({ Text = "Thanks for buying! Your license is <b>lifetime</b>", DoesWrap = true })
-        Greetings:AddLabel({ Text = "<font color=\"#baa4ff\">by panamera(1337)</font>", DoesWrap = true })
+        Greetings:AddLabel({ Text = "<font color=\"#baa4ff\">dildogang</font>", DoesWrap = true })
 	end
 
 		do
